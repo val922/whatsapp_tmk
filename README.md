@@ -1,4 +1,4 @@
-# WhatsApp_tmk [![Build Status]
+# WhatsApp_tmk 
 ---
 
 WhatsApp_tmk is a python library that enables TMK that can communicate with WhatsApp users.
